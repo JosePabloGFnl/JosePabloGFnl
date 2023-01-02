@@ -9,6 +9,8 @@
 - 🌎 I'm fluent in spanish, english and currently learning french
 - 📖 I love reading
 
+- 🔧 Additional skills: Julia, SCRUM, Combinatorial Optimization
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepablogfnl&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepablogfnl&show_icons=true&theme=cobalt)
