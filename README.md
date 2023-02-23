@@ -11,9 +11,9 @@
 
 - 🔧 Additional skills: Julia, SCRUM, Combinatorial Optimization
 
-[![Top Langs](https://github-readme-stats-inky-eight.vercel.app/api/top-langs/?username=josepablogfnl&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-no-expiration.vercel.app/api/top-langs/?username=josepablogfnl&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats-inky-eight.vercel.app/api?username=josepablogfnl&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats-no-expiration.vercel.app/api?username=josepablogfnl&show_icons=true&theme=cobalt)
 
 ## 💼 Skills
 <div align="center">  
