@@ -2,10 +2,10 @@
 
 ## 🖖 About Me
 
-💻 Software Engineering undergrad and Data Science enthusiast currently working as an intern ✏️
+💻 Software Engineering undergrad and Data Science enthusiast currently working as a Data Analyst ✏️
 - 🔭 I’m currently working on my thesis focusing in the area of combinatorial optimization
 - 🌱 I'm a Research Assistant at Mexico's National Research Service III - National Council for Science and Technology
-- 🎓 I'm one year away to finish my bachelor's degree in Software Engineering
+- 🎓 I'm one semester away to finish my bachelor's degree in Software Engineering
 - 🌎 I'm fluent in spanish, english and currently learning french
 - 📖 I love reading
 
