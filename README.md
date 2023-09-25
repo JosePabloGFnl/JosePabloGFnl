@@ -12,7 +12,13 @@
 - 🔧 Additional skills: Julia, SCRUM, Combinatorial Optimization
 - 🏆 Two time MLH-Hackathon participant and winner
    - 🥈 2nd place TigreHacks 2023 - UANL
-   - 🎖️ Top 10 projects HackMty 2023 - Tec de Monterrey 
+     <p align="center">
+      <img src="img/su-group-tigrehacks.jpg" width="400">
+      </p>
+   - 🎖️ Top 10 projects HackMty 2023 - Tec de Monterrey
+      <p align="center">
+      <img src="img/su-group-hackmty.jpg" width="400">
+      </p>
 
 [![Top Langs](https://github-readme-stats-no-expiration.vercel.app/api/top-langs/?username=josepablogfnl&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
