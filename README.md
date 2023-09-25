@@ -10,12 +10,12 @@
 - 📖 I love reading
 
 - 🔧 Additional skills: Julia, SCRUM, Combinatorial Optimization
-- 🏆 Two time MLH-Hackathon participant and winner
-   - 🥈 2nd place TigreHacks 2023 - UANL
+- 🏆 Two time MLH-Hackathon participant and winner 
+   - 🥈 2nd place TigreHacks 2023 - UANL - [tigereye](https://github.com/matavaresr/tigereye)
      <p align="center">
       <img src="img/su-group-tigrehacks.jpg" width="400">
       </p>
-   - 🎖️ Top 10 projects HackMty 2023 - Tec de Monterrey
+   - 🎖️ Top 10 projects HackMty 2023 - Tec de Monterrey - [kaban](https://github.com/Special-Unitary-Group/kaban)
       <p align="center">
       <img src="img/su-group-hackmty.jpg" width="400">
       </p>
