@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Pablo González
 
+<p align="center">
+<img src="img/grad.jpg" width="500">
+</p>
+
 ## 🖖 About Me
 
 💻 Software Engineering and Data Science enthusiast currently working as a Data Analyst ✏️
