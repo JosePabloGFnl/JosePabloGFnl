@@ -13,7 +13,6 @@
 - 🌎 I'm fluent in spanish, english and currently learning french
 - 📖 I love reading
 
-- 🔧 Additional skills: Julia, SCRUM, Combinatorial Optimization
 - 🏆 Two time MLH-Hackathon participant and winner 
    - 🥈 2nd place TigreHacks 2023 - UANL - [tigereye](https://github.com/matavaresr/tigereye)
      <p align="center">
