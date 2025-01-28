@@ -6,8 +6,8 @@
 
 ## 🖖 About Me
 
-💻 Software Engineering and Data Science enthusiast currently working as a Data Analyst ✏️
-- 🔭 I’m currently working on my thesis focusing in the area of combinatorial optimization
+💻 Software Engineering and Data Science enthusiast currently working as a Data Engineer ✏️
+- 🔭 I’m currently working on my operations research paper
 - 🌱 I'm a Research Assistant at Mexico's National Research Service III - National Council for Science and Technology
 - 🎓 I have a bachelor's degree in Software Engineering by the Autonomous University Nuevo León (UANL) 🐯
 - 🌎 I'm fluent in spanish, english and currently learning french
